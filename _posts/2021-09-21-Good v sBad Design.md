@@ -5,3 +5,4 @@ An example of good design is the Google Classroom website. Google Classroom is w
 
 
 ### Bad Design
+An example of bad design is FirstClass. It has really poor discoverability and its interface is the opposite of intuitive. Additionally, it is almost impossible to get notifications from the FirstClass app, which means that you have to constantly check the app to stay on top of your emails. Finally, emails delete on FirstClass after thirty days without any warning so it is easy to lose important emails that you forgot were important.
