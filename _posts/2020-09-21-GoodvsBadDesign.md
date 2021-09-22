@@ -1,1 +1,0 @@
-##Good vs. Bad Design
